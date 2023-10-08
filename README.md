@@ -1,7 +1,7 @@
 
 # To-Do-List
 
-Welcome to the Hacktoberfest ToDo List Web App repository! This repository contains a basic HTML and CSS file for creating a simple ToDo list web application using HTML, CSS, and JavaScript. We invite the open source community to participate in the Hacktoberfest event by contributing to this project.
+Welcome to the Hacktoberfest ToDo List Web App repository! This repository contains a basic HTML and CSS file for creating a simple ToDo list web application using HTML, CSS, and JavaScript. We invite the open-source community to participate in the Hacktoberfest event by contributing to this project.
 
 
 ## Getting Started
@@ -11,7 +11,7 @@ To get started with this project, follow these simple steps:
 - Clone the Repository: Fork and clone this repository to your local machine.
 
 ```bash
-[git clone https://github.com/charukalyani/To-Do-List.git
+git clone https://github.com/charukalyani/To-Do-List.git
 ```
 
 - Open the Project: Open the project folder in your favorite code editor.
