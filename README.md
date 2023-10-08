@@ -11,7 +11,7 @@ To get started with this project, follow these simple steps:
 - Clone the Repository: Fork and clone this repository to your local machine.
 
 ```bash
-git clone https://github.com/your-username/hacktoberfest-todo-list.git
+[git clone https://github.com/charukalyani/To-Do-List.git
 ```
 
 - Open the Project: Open the project folder in your favorite code editor.
