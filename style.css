@@ -20,7 +20,7 @@ body {
 }
 
 h1 {
-  color: rgba(36, 17, 56, 0.979);
+  color: rgba(36, 17, 56, 0.978);
   font-size: 10rem;
   text-align: center;
   opacity: 0.4;
@@ -72,4 +72,5 @@ small {
   color: #2a1a1a;
   margin-top: 3rem;
   text-align: center;
+
 }
